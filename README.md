@@ -48,9 +48,9 @@
           <a target="_blank" rel="noopener" href="https://www.w3schools.com/sql/"><img width="48" height="48" src="https://img.icons8.com/color/48/sql.png" alt="sql"/></a>
 </div>
 </div>
-        <picture>
+<picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=adserasinghe&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
