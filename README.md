@@ -1,4 +1,4 @@
-### Hello There...! I'm Aditha Dinuja Serasinghe 👋
+### Hello There I'm Aditha Dinuja Serasinghe...!👋
 ### Front End Developer, Graphic Designer from Sri Lanka.
 ![](https://komarev.com/ghpvc/?username=adserasinghe&color=green)<br>
 🔭 I’m currently a [Diploma Student at](Technical College of Matara)
