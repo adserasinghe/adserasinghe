@@ -1,8 +1,6 @@
-
-
-![](https://komarev.com/ghpvc/?username=adserasinghe&color=green)
 ### Hello there 👋
 ### Front End Developer, Graphic Designer from Sri Lanka.
+![](https://komarev.com/ghpvc/?username=adserasinghe&color=green)
 🔭 I’m currently a [Diploma Student at](Technical College of Matara)
 
 🌱 I’m currently learning Front End Developing
