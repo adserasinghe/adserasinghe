@@ -1,4 +1,4 @@
-<a href="https://camo.githubusercontent.com/c5a333a6d339268e9fd718bc6a48ae21547ae66ce3f274f98efa1fe24d192426/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d686173616c616f6e6c696e65266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"></a>
+![](https://komarev.com/ghpvc/?username=adserasinghe&color=green)
 ### Hello there 👋
 🔭 I’m currently a [Diploma Student at](Technical College of Matara)
 
