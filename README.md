@@ -59,10 +59,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=adserasinghe&show_icons=true" />
 </picture>
-
-<a href="https://github.com/adserasinghe/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adserasinghe" />
-</a>
 <a href="https://github.com/adserasinghe/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adserasinghe&layout=compact&langs_count=8&card_width=320" />
 </a>
