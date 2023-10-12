@@ -25,8 +25,8 @@
           <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
         <a target="_blank" rel="noopener" href="https://github.com/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color-glass/48/github--v1.png" alt="github--v1"/></a>
         <a target="_blank" rel="noopener" href="https://www.behance.net/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/behance.png" alt="behance"/></a>
-        <a target="_blank" rel="noopener" href="https://linktr.ee/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/source-code.png" alt="source-code"/></a>
           <a target="_blank" rel="noopener" href="https://stackoverflow.com/users/14680735/aditha-dinuja-serasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/stackoverflow.png" alt="stackoverflow"/></a>
+          <a target="_blank" rel="noopener" href="https://linktr.ee/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/source-code.png" alt="source-code"/></a>
 </div>
 
 ### Language & Dev Tools:
