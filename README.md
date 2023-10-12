@@ -39,5 +39,8 @@
         <a target="_blank" rel="noopener" href="https://www.java.com/en/"><img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/></a>
         <a target="_blank" rel="noopener" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/></a>
         <a target="_blank" rel="noopener" href="https://nodejs.org/en"><img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></a>
+          <a target="_blank" rel="noopener" href="https://www.postman.com/"><img width="64" height="64" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/></a>
+          <a target="_blank" rel="noopener" href="https://www.python.org/"><img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/></a>
+          <a target="_blank" rel="noopener" href="https://react.dev/"><img width="16" height="16" src="https://img.icons8.com/officel/16/react.png" alt="react"/></a>
 </div>
           <a target="_blank" rel="noopener" href="https://www.holopin.io/userbadge/clnmntgyz125820fl5rppb6dp7"><img src="https://holopin.me/adserasinghe"</a>
