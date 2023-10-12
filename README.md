@@ -34,6 +34,7 @@
 
 ### Language & Dev Tools:
 <div Class="Social items">
+          <a target="_blank" rel="noopener" href="https://developer.android.com/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/android-os.png" alt="android-os"/></a>
           <a target="_blank" rel="noopener" href="https://www.w3.org/html/"><img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/></a>
           <a target="_blank" rel="noopener" href="https://www.w3schools.com/css/"><img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/></a>
           <a target="_blank" rel="noopener" href="https://getbootstrap.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/></a>
