@@ -41,6 +41,6 @@
         <a target="_blank" rel="noopener" href="https://nodejs.org/en"><img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></a>
           <a target="_blank" rel="noopener" href="https://www.postman.com/"><img width="64" height="64" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/></a>
           <a target="_blank" rel="noopener" href="https://www.python.org/"><img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/></a>
-          <a target="_blank" rel="noopener" href="https://react.dev/"><img width="80" height="80" src="https://img.icons8.com/officel/80/react.png" alt="react"/></a>
+          <a target="_blank" rel="noopener" href="https://react.dev/"><img width="40" height="40" src="https://img.icons8.com/officel/40/react.png" alt="react"/></a>
 </div>
           <a target="_blank" rel="noopener" href="https://www.holopin.io/userbadge/clnmntgyz125820fl5rppb6dp7"><img src="https://holopin.me/adserasinghe"</a>
