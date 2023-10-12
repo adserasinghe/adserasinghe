@@ -48,5 +48,7 @@
           <a target="_blank" rel="noopener" href="https://www.w3schools.com/sql/"><img width="48" height="48" src="https://img.icons8.com/color/48/sql.png" alt="sql"/></a>
 </div>
 </div>
+          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adserasinghe&layout=compact)](https://github.com/adserasinghe/github-readme-stats)
           <a target="_blank" rel="noopener" href="https://www.holopin.io/userbadge/clnmntgyz125820fl5rppb6dp7"><img src="https://holopin.me/adserasinghe"</a>
+          
           
