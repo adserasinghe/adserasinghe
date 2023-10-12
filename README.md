@@ -37,7 +37,7 @@
           <a target="_blank" rel="noopener" href="https://git-scm.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/></a>
           <a target="_blank" rel="noopener" href="https://azure.microsoft.com/en-in/"><img width="48" height="48" src="https://img.icons8.com/color/48/azure-1.png" alt="azure-1"/></a>
         <a target="_blank" rel="noopener" href="https://www.java.com/en/"><img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/></a>
-        <a target="_blank" rel="noopener" href="https://www.behance.net/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/behance.png" alt="behance"/></a>
-        <a target="_blank" rel="noopener" href="https://linktr.ee/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/source-code.png" alt="source-code"/></a>
+        <a target="_blank" rel="noopener" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/></a>
+        <a target="_blank" rel="noopener" href="https://nodejs.org/en"><img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></a>
 </div>
           <a target="_blank" rel="noopener" href="https://www.holopin.io/userbadge/clnmntgyz125820fl5rppb6dp7"><img src="https://holopin.me/adserasinghe"</a>
