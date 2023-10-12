@@ -9,7 +9,7 @@ Contact Info:
           <a target="_blank" rel="noopener" href="https://www.instagram.com/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
           <a target="_blank" rel="noopener" href="https://api.whatsapp.com/send/?phone=94718896042&text&type=phone_number&app_absent=0"><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/></a>
         <a target="_blank" rel="noopener" href="https://www.youtube.com/@aditha_creation/"><img width="48" height="48" src="https://img.icons8.com/color/48/youtube-play.png" alt="youtube-play"/></a>
-          <a target="_blank" rel="noopener" href="https://twitter.com/adserasinghe"><img width="50" height="50" src="https://img.icons8.com/ios/50/twitterx--v2.png" alt="twitterx--v2"/></a>
+          <a target="_blank" rel="noopener" href="https://twitter.com/adserasinghe"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="twitterx--v1"/></a>
           <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
           <a target="_blank" rel="noopener" href="https://open.spotify.com/user/31yae5mucnitkgqqnj6tj6ucnmxy"><img width="48" height="48" src="https://img.icons8.com/fluency/48/spotify.png" alt="spotify"/></a>
         <a target="_blank" rel="noopener" href="https://github.com/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color-glass/48/github--v1.png" alt="github--v1"/></a>
