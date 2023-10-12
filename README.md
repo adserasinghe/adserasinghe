@@ -47,6 +47,7 @@
           <a target="_blank" rel="noopener" href="https://cloud.google.com/?hl=en"><img width="48" height="48" src="https://img.icons8.com/color/48/google-cloud.png" alt="google-cloud"/></a>
           <a target="_blank" rel="noopener" href="https://www.w3schools.com/sql/"><img width="48" height="48" src="https://img.icons8.com/color/48/sql.png" alt="sql"/></a>
 </div>
+
 </div>
 <div>
 <picture>
@@ -66,6 +67,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adserasinghe&layout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
+<br><br>
           <a target="_blank" rel="noopener" href="https://www.holopin.io/userbadge/clnmntgyz125820fl5rppb6dp7"><img src="https://holopin.me/adserasinghe"</a>
           
           
