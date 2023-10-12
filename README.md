@@ -25,4 +25,4 @@ Contact Info:
         <a target="_blank" rel="noopener" href="https://www.behance.net/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/behance.png" alt="behance"/></a>
         <a target="_blank" rel="noopener" href="https://linktr.ee/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/source-code.png" alt="source-code"/></a>
           <be><br>
-          [![An image of @adserasinghe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adserasinghe)](https://holopin.io/@adserasinghe)
+          <img src="https://holopin.me/adserasinghe">
