@@ -7,13 +7,13 @@ Contact Info
 
    <div class="social-icon">
         <div class="social-item">
-          <a target="_blank" rel="noopener" href="https://web.facebook.com/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"/></a>
+          <a target="_blank" rel="noopener" href="https://web.facebook.com/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"/>Facebook</a>
         </div>
         <div class="social-item">
-          <a target="_blank" rel="noopener" href="https://www.instagram.com/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
+          <a target="_blank" rel="noopener" href="https://www.instagram.com/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>Instagram</a>
         </div>
         <div class="social-item">
-          <a target="_blank" rel="noopener" href="https://api.whatsapp.com/send/?phone=94718896042&text&type=phone_number&app_absent=0"><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/></a>
+          <a target="_blank" rel="noopener" href="https://api.whatsapp.com/send/?phone=94718896042&text&type=phone_number&app_absent=0"><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>Whatsapp</a>
         </div>
         <div class="social-item">
         <a target="_blank" rel="noopener" href="https://www.youtube.com/@aditha_creation/"><img width="48" height="48" src="https://img.icons8.com/color/48/youtube-play.png" alt="youtube-play"/></a>
@@ -22,18 +22,18 @@ Contact Info
           <a target="_blank" rel="noopener" href="https://twitter.com/adserasinghe"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="twitterx--v1"/></a>
           </div>
         <div class="social-item">
-          <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
+          <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>Linkedin</a>
           </div>
           <div class="social-item">
-            <a target="_blank" rel="noopener" href="https://open.spotify.com/user/31yae5mucnitkgqqnj6tj6ucnmxy"><img width="48" height="48" src="https://img.icons8.com/fluency/48/spotify.png" alt="spotify"/></a>
+            <a target="_blank" rel="noopener" href="https://open.spotify.com/user/31yae5mucnitkgqqnj6tj6ucnmxy"><img width="48" height="48" src="https://img.icons8.com/fluency/48/spotify.png" alt="spotify"/>spotify</a>
           </div>
         <div class="social-item">
-        <a target="_blank" rel="noopener" href="https://github.com/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color-glass/48/github--v1.png" alt="github--v1"/></a>
+        <a target="_blank" rel="noopener" href="https://github.com/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color-glass/48/github--v1.png" alt="github--v1"/>Github</a>
         </div>
         <div class="social-item">
-        <a target="_blank" rel="noopener" href="https://www.behance.net/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/behance.png" alt="behance"/></a>
+        <a target="_blank" rel="noopener" href="https://www.behance.net/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/behance.png" alt="behance"/>Behance</a>
         </div>
         <div class="social-item">
-          <a target="_blank" rel="noopener" href="https://linktr.ee/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/source-code.png" alt="source-code"/></a>
+          <a target="_blank" rel="noopener" href="https://linktr.ee/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/source-code.png" alt="source-code"/>Linktree</a>
         </div>
       </div>
