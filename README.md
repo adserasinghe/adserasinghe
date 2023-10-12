@@ -13,7 +13,7 @@
 
 <!--**adserasinghe/adserasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-### Contact Info:
+### Contact Me:
 <div Class="Social items">
           <a target="_blank" rel="noopener" href="https://web.facebook.com/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"/></a>
           <a target="_blank" rel="noopener" href="https://www.instagram.com/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
