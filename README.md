@@ -48,6 +48,7 @@
           <a target="_blank" rel="noopener" href="https://www.w3schools.com/sql/"><img width="48" height="48" src="https://img.icons8.com/color/48/sql.png" alt="sql"/></a>
 </div>
 </div>
+<div>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=adserasinghe&show_icons=true&theme=dark"
@@ -59,6 +60,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=adserasinghe&show_icons=true" />
 </picture>
+</div>
 <a href="https://github.com/adserasinghe/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adserasinghe&layout=compact&langs_count=8&card_width=320" />
 </a>
