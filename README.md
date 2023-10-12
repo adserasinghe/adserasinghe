@@ -10,7 +10,7 @@
 
 💬 Ask me about Git, Github, Java, Python, HTML, CSS, SQL and JS
 
-📫 How to reach me svadithadinujaserasinghe@gmail.com
+📫 How to reach me svadithadinujaserasinghe@gmail.com & svadithadinuja@outlook.com
 
 📄 Know about my experiences <a target="_blank" rel="noopener" href="https://adserasinghe.github.io">adserasinghe.github.io</a>
 
