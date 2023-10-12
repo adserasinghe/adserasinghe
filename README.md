@@ -40,7 +40,6 @@
           <a target="_blank" rel="noopener" href="https://git-scm.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/></a>
           <a target="_blank" rel="noopener" href="https://azure.microsoft.com/en-in/"><img width="48" height="48" src="https://img.icons8.com/color/48/azure-1.png" alt="azure-1"/></a>
         <a target="_blank" rel="noopener" href="https://www.java.com/en/"><img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/></a>
-          <a target="_blank" rel="noopener" href="https://dev.to/adserasinghe"><img width="32" height="32" src="https://img.icons8.com/windows/32/dev.png" alt="dev"/></a>
         <a target="_blank" rel="noopener" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/></a>
         <a target="_blank" rel="noopener" href="https://nodejs.org/en"><img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></a>
           <a target="_blank" rel="noopener" href="https://www.postman.com/"><img width="64" height="64" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/></a>
