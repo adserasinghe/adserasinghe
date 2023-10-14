@@ -8,7 +8,7 @@
 
 👨‍💻 All of my projects are available at github.com/adserasinghe
 
-💬 Ask me about Git, Github, Java, Python, HTML, CSS, SQL and JS
+💬 Ask me about Git, Github, Java, Python, HTML, CSS, SQL, PHP, and JS
 
 📫 How to reach me svadithadinujaserasinghe@gmail.com & svadithadinuja@outlook.com
 
