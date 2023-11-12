@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning Front End Developing at the Technical College of Matara
 
-👨‍💻 All of my projects are available at <a href="https://github.com/adserasinghe?tab=repositories">Github</a><br><br>
+👨‍💻 All of my projects are available at <a href="https://github.com/adserasinghe?tab=repositories">Github</a><br>
 💬 Ask me about Git, Github, Java, Python, HTML, CSS, SQL, PHP, and JS
 
 📫 How to reach me svadithadinujaserasinghe@gmail.com & svadithadinuja@outlook.com
