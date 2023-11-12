@@ -2,7 +2,7 @@
 ### Full Stack Developer, Graphic Designer from Sri Lanka.
 ![](https://komarev.com/ghpvc/?username=adserasinghe&color=green)<br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=adserasinghe)<br><br>
-🔭 I’m currently a [Diploma Student at](Technical College of Matara)
+🔭 I’m currently a Diploma Student at Technical College of Matara
 
 🌱 I’m currently learning Front End Developing
 
