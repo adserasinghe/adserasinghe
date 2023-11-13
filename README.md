@@ -27,7 +27,7 @@
           <a target="_blank" rel="noopener" href="https://gitlab.com/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/gitlab.png" alt="gitlab"/></a>
         <a target="_blank" rel="noopener" href="https://www.behance.net/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/behance.png" alt="behance"/></a>
           <a target="_blank" rel="noopener" href="https://stackoverflow.com/users/14680735/aditha-dinuja-serasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/stackoverflow.png" alt="stackoverflow"/></a>
-          <a target="_blank" rel="noopener" href="https://dev.to/adserasinghe"><img width="32" height="32" src="https://img.icons8.com/windows/32/dev.png" alt="dev"/></a>
+          <a target="_blank" rel="noopener" href="https://dev.to/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/source-code.png" alt="source-code"/></a>
           <a target="_blank" rel="noopener" href="https://linktr.ee/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/source-code.png" alt="source-code"/></a>
 </div>
 
