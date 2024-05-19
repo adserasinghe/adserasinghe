@@ -40,6 +40,7 @@
           <a target="_blank" rel="noopener" href="https://www.w3schools.com/css/"><img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/></a>
           <a target="_blank" rel="noopener" href="https://getbootstrap.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/></a>
         <a target="_blank" rel="noopener" href="https://www.figma.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/></a>
+          <a target="_blank" rel="noopener" href="https://adobexdplatform.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/adobe-xd--v1.png" alt="adobe-xd--v1"/></a>
           <a target="_blank" rel="noopener" href="https://firebase.google.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/></a>
           <a target="_blank" rel="noopener" href="https://git-scm.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/></a>
           <a target="_blank" rel="noopener" href="https://azure.microsoft.com/en-in/"><img width="48" height="48" src="https://img.icons8.com/color/48/azure-1.png" alt="azure-1"/></a>
