@@ -4,7 +4,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=adserasinghe)<br><br>
 🔭 I’m currently a Diploma Student
 
-🌱 I’m currently learning Front End Developing at the Technical College of Matara
+🌱 I’m currently learning Front End Developing at the Technical College of Matara LK
 
 👨‍💻 All of my projects are available at <a target="_blank" rel="noopener" href="https://github.com/adserasinghe?tab=repositories">Github</a><br><br>
 💬 Ask me about Git, Github, Java, Python, HTML, CSS, SQL, PHP, and JS
