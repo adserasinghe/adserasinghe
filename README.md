@@ -57,7 +57,7 @@
           <a target="_blank" rel="noopener" href="https://www.w3schools.com/sql/"><img width="48" height="48" src="https://img.icons8.com/color/48/sql.png" alt="sql"/></a>
           <a target="_blank" rel="noopener" href="https://wordpress.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/wordpress.png" alt="wordpress"/></a>
           <a target="_blank" rel="noopener" href="https://www.chatbase.co/"><img width="48" height="48" src="https://img.icons8.com/color/48/message-bot.png" alt="message-bot"/></a>
-          <a target="_blank" rel="noopener" href="https://huggingface.co/adserasinghe"><img width="96" height="96" src="https://img.icons8.com/emoji/96/hugging-face.png" alt="hugging-face"/></a>
+          <a target="_blank" rel="noopener" href="https://huggingface.co/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/emoji/48/hugging-face.png" alt="hugging-face"/></a>
 </div>
 </div>
 
