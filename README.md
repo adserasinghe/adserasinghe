@@ -53,7 +53,7 @@
           <a target="_blank" rel="noopener" href="https://www.postman.com/"><img width="64" height="64" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/></a>
           <a target="_blank" rel="noopener" href="https://www.python.org/"><img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/></a>
           <a target="_blank" rel="noopener" href="https://react.dev/"><img width="40" height="40" src="https://img.icons8.com/officel/40/react.png" alt="react"/></a>
-          <a target="_blank" rel="noopener" href="https://angular.dev/"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png" alt="external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo"/></a>
+          <a target="_blank" rel="noopener" href="https://angular.dev/"><img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/></a>
           <a target="_blank" rel="noopener" href="https://cloud.google.com/?hl=en"><img width="48" height="48" src="https://img.icons8.com/color/48/google-cloud.png" alt="google-cloud"/></a>
           <a target="_blank" rel="noopener" href="https://www.w3schools.com/sql/"><img width="48" height="48" src="https://img.icons8.com/color/48/sql.png" alt="sql"/></a>
           <a target="_blank" rel="noopener" href="https://wordpress.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/wordpress.png" alt="wordpress"/></a>
