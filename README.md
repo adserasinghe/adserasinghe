@@ -20,6 +20,7 @@
           <a target="_blank" rel="noopener" href="https://web.facebook.com/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"/></a>
           <a target="_blank" rel="noopener" href="https://www.instagram.com/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
           <a target="_blank" rel="noopener" href="https://api.whatsapp.com/send/?phone=94718896042&text&type=phone_number&app_absent=0"><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/></a>
+          <a target="_blank" rel="noopener" href="https://t.me/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"/></a>
         <a target="_blank" rel="noopener" href="https://www.youtube.com/@aditha_creation/"><img width="48" height="48" src="https://img.icons8.com/color/48/youtube-play.png" alt="youtube-play"/></a>
           <a target="_blank" rel="noopener" href="https://twitter.com/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/twitterx.png" alt="twitterx"/></a>
           <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
