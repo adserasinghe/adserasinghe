@@ -78,4 +78,5 @@
 <br>
 
 ### All are updated in the world :)
+### all &copy by own developers ;)
 ### © by ad5eras1n9h3          
