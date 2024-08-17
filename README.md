@@ -77,5 +77,5 @@
 [![An image of @adserasinghe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adserasinghe)](https://holopin.io/@adserasinghe)
 <br>
 
-### All are Updated in the World :)
+### All are updated in the world :)
 ### © by ad5eras1n9h3          
