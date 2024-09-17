@@ -2,9 +2,9 @@
 ### I'm a Front End Developer & Graphic Designer from Sri Lanka.
 ![](https://komarev.com/ghpvc/?username=adserasinghe&color=green)<br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=adserasinghe)<br><br>
-🔭 I’m currently a Diploma Student
+🔭 I’m currently a Diploma Student at Technical College Matara LK
 
-🌱 I’m currently learning Front End Developing at the Technical College of Matara LK
+🌱 I’m currently Intern Front End Developing at the Nimitz Ceylon Matara LK
 
 👨‍💻 All of my projects are available at <a target="_blank" rel="noopener" href="https://github.com/adserasinghe?tab=repositories">Github</a><br><br>
 💬 Ask me about Git, Java, Python, HTML, CSS, SQL, PHP and JS
