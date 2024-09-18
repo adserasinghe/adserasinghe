@@ -74,8 +74,8 @@
 
 ### Works:
 <img src="https://ghc.clait.sh/repo/adserasinghe/discoverlanka.github.io?bg_color=8a3d3d&title_color=ffffff&text_color=ffffff&icon_color=ffffff&show_user=false" alt="GitHub Repo Card">
-<img src="https://ghc.clait.sh/repo/adserasinghe/Hardware-Lab-system?bg_color=8a3d3d&title_color=ffffff&text_color=ffffff&icon_color=ffffff&show_user=true" alt="GitHub Repo Card">
-<img src="https://ghc.clait.sh/repo/adserasinghe/thaproban.github.io?bg_color=8a3d3d&title_color=ffffff&text_color=ffffff&icon_color=ffffff&show_user=true" alt="GitHub Repo Card">
+<!--<img src="https://ghc.clait.sh/repo/adserasinghe/Hardware-Lab-system?bg_color=8a3d3d&title_color=ffffff&text_color=ffffff&icon_color=ffffff&show_user=true" alt="GitHub Repo Card">
+<img src="https://ghc.clait.sh/repo/adserasinghe/thaproban.github.io?bg_color=8a3d3d&title_color=ffffff&text_color=ffffff&icon_color=ffffff&show_user=true" alt="GitHub Repo Card">-->
 <br>
 <br>
 
