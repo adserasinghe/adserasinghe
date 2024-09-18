@@ -73,7 +73,9 @@
 <a href="https://github.com/adserasinghe/convoychat"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adserasinghe&layout=compact&langs_count=8&card_width=320"/></a></br>
 
 ### Works:
-<img src="https://ghc.clait.sh/repo/adserasinghe/adserasinghe.github.io?bg_color=8a3d3d&title_color=ffffff&text_color=ffffff&icon_color=ffffff&show_user=false" alt="GitHub Repo Card">
+<img src="https://ghc.clait.sh/repo/adserasinghe/discoverlanka.github.io?bg_color=8a3d3d&title_color=ffffff&text_color=ffffff&icon_color=ffffff&show_user=false" alt="GitHub Repo Card">
+<img src="https://ghc.clait.sh/repo/adserasinghe/Hardware-Lab-system?bg_color=8a3d3d&title_color=ffffff&text_color=ffffff&icon_color=ffffff&show_user=true" alt="GitHub Repo Card">
+<img src="https://ghc.clait.sh/repo/adserasinghe/thaproban.github.io?bg_color=8a3d3d&title_color=ffffff&text_color=ffffff&icon_color=ffffff&show_user=true" alt="GitHub Repo Card">
 <br>
 <br>
 
