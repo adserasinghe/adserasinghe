@@ -4,7 +4,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=adserasinghe)<br><br>
 🔭 I’m currently a Diploma Student at Technical College Matara LK
 
-🌱 I’m currently Intern Front End Developing at the Nimitz Ceylon Matara LK
+🌱 I’m currently Intern in Front End Developer at the Nimitz Ceylon Matara LK
 
 👨‍💻 All of my projects are available at <a target="_blank" rel="noopener" href="https://github.com/adserasinghe?tab=repositories">Github</a><br><br>
 💬 Ask me about Git, Java, Python, HTML, CSS, SQL, PHP and JS
@@ -72,13 +72,6 @@
 <source srcset="https://github-readme-stats.vercel.app/api?username=adserasinghe&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)"/><source srcset="https://github-readme-stats.vercel.app/api?username=adserasinghe&show_icons=true"media="(prefers-color-scheme: light), (prefers-color-scheme: no preference)"/>
 <img src="https://github-readme-stats.vercel.app/api?username=adserasinghe&show_icons=true"/>
 <a href="https://github.com/adserasinghe/convoychat"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adserasinghe&layout=compact&langs_count=8&card_width=320"/></a></br>
-
-### Works:
-<img src="https://ghc.clait.sh/repo/adserasinghe/discoverlanka.github.io?bg_color=8a3d3d&title_color=ffffff&text_color=ffffff&icon_color=ffffff&show_user=false" alt="GitHub Repo Card">
-<!--<img src="https://ghc.clait.sh/repo/adserasinghe/Hardware-Lab-system?bg_color=8a3d3d&title_color=ffffff&text_color=ffffff&icon_color=ffffff&show_user=true" alt="GitHub Repo Card">
-<img src="https://ghc.clait.sh/repo/adserasinghe/thaproban.github.io?bg_color=8a3d3d&title_color=ffffff&text_color=ffffff&icon_color=ffffff&show_user=true" alt="GitHub Repo Card">-->
-<br>
-<br>
 
 [![An image of @adserasinghe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adserasinghe)](https://holopin.io/@adserasinghe)
 <br>
