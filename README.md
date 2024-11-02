@@ -1,3 +1,8 @@
+<style>
+          a{
+                    text-decoration:none;
+          }
+</style>
 ### Hello There I'm Aditha Dinuja Serasinghe...!👋
 ### I'm a Front End Developer & Graphic Designer from Sri Lanka.
 ![](https://komarev.com/ghpvc/?username=adserasinghe&color=green)<br>
