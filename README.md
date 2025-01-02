@@ -4,7 +4,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=adserasinghe)<br><br>
 🔭 I’m currently a Diploma Student at Technical College Matara LK
 
-🌱 I’m currently Intern in Front End Developer at the Nimitz Ceylon Matara LK
+🌱 I’m currently Intern in Front End Developer at the <a target="_blank" href="https://nimitz.lk">Nimitz</a> Matara LK
 
 👨‍💻 All of my projects are available at <a target="_blank" rel="noopener" href="https://github.com/adserasinghe?tab=repositories">Github</a><br><br>
 💬 Ask me about Git, Java, Python, HTML, CSS, SQL, PHP and JS
