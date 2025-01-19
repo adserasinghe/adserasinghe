@@ -65,6 +65,7 @@
           <a target="_blank" rel="noopener" href="https://www.chatbase.co/"><img width="48" height="48" src="https://img.icons8.com/color/48/message-bot.png" alt="message-bot"/></a>
           <a target="_blank" rel="noopener" href="https://huggingface.co/adserasinghe"><img width="48" height="48" src="https://img.icons8.com/emoji/48/hugging-face.png" alt="hugging-face"/></a>
           <a target="_blank" rel="noopener" href="[https://huggingface.co/adserasinghe](https://colab.research.google.com/)"><img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/></a>
+          <a target="_blank" rel="noopener" href="https://www.cloudflare.com/"><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-cloudflare-provides-content-delivery-network-services-ddos-mitigation-logo-color-tal-revivo.png" alt="external-cloudflare-provides-content-delivery-network-services-ddos-mitigation-logo-color-tal-revivo"/></a>
 </div>
 </div>
 
