@@ -25,10 +25,10 @@ Tourism Web Page
   
 
 ## 📫 How to reach me
-- ![](https://img.shields.io/badge/Facebook-Follow%20Me-1877F2?style=flat&logo=facebook&logoColor=white) Facebook: [@adserasinghe](https://facebook.com/adserasinghe)
-- ![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=flat&logo=Twitter&logoColor=white) X: [@adserasinghe](https://x.com/adserasinghe)
-- ![](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=flat&logo=linkedin&logoColor=white) LinkedIn: [@adserasinghe](https://www.linkedin.com/in/adserasinghe/)
-- ![](https://img.shields.io/badge/Website-Visit%20Now-00aaff?style=flat&logo=google-chrome&logoColor=white) Web Site: [adserasinghe-Web](https://adserasinghe.github.io)
+- ![](https://img.shields.io/badge/Facebook-Follow%20Me-1877F2?style=flat&logo=facebook&logoColor=white)[@adserasinghe](https://facebook.com/adserasinghe)
+- ![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=flat&logo=Twitter&logoColor=white)[@adserasinghe](https://x.com/adserasinghe)
+- ![](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=flat&logo=linkedin&logoColor=white)[@adserasinghe](https://www.linkedin.com/in/adserasinghe/)
+- ![](https://img.shields.io/badge/Website-Visit%20Now-00aaff?style=flat&logo=google-chrome&logoColor=white)[adserasinghe-Web](https://adserasinghe.github.io)
 
 
   
