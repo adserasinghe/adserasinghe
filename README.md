@@ -25,7 +25,7 @@ Brief description of your project
 ## 📫 How to reach me
 - LinkedIn: [Aditha's LinkedIn]([Your LinkedIn URL](https://www.linkedin.com/in/adserasinghe/))  
 - Email: svadithadinujaserasinghe@gmail.com | svadithadinuja@outlook.com
-- Twitter: [@YourTwitter](https://x.com/adserasinghe)  
+- Twitter: [@adserasinghe](https://x.com/adserasinghe)  
 
 ## 💡 Fun fact
 Share an interesting fact about yourself!  
