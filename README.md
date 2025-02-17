@@ -3,7 +3,7 @@
 ## About Me
 💻 Web Developer passionate about creating innovative solutions  
 🌱 Currently learning WordPress & Web hosting  
-🔭 Working on [[Nimitz](https://nimitz.lk/)] 
+🔭 Working on [Nimitz](https://nimitz.lk/) 
 
 ## 🛠️ Technologies & Tools
 ![HTML](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
