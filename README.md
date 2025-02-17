@@ -2,7 +2,7 @@
 
 ## About Me
 💻 Software Developer passionate about creating innovative solutions  
-🌱 Currently learning [Wordpress]  
+🌱 Currently learning WordPress & web hosting  
 🔭 Working on [[Nimitz](https://nimitz.lk/)]    
 
 ## 🛠️ Technologies & Tools
@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/Code-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![](https://img.shields.io/badge/Cloud-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![](https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat&logo=aws-amazon&logoColor=white)
 
 
 
