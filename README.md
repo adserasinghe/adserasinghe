@@ -25,12 +25,13 @@ Tourism Web Page
   
 
 ## 📫 How to reach me
-- [![](https://img.shields.io/badge/Facebook-Follow%20Me-1877F2?style=flat&logo=facebook&logoColor=white)]@adserasinghe(https://facebook.com/adserasinghe)
-- [![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=flat&logo=Twitter&logoColor=white)]@adserasinghe(https://x.com/adserasinghe)
-- [![](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=flat&logo=linkedin&logoColor=white)]@adserasinghe(https://www.linkedin.com/in/adserasinghe/)
-- [![](https://img.shields.io/badge/Website-Visit%20Now-00aaff?style=flat&logo=google-chrome&logoColor=white) adserasinghe-Web(https://adserasinghe.github.io)
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Me-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+94718896042)
 - [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:svadithadinujaserasinghe@gmail.com)
 - [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:svadithadinuja@outlook.com) 
+- [![Facebook](https://img.shields.io/badge/Facebook-Follow%20Me-1877F2?style=flat&logo=facebook&logoColor=white)@adserasinghe](https://facebook.com/adserasinghe)
+- [![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=flat&logo=Twitter&logoColor=white)@adserasinghe](https://x.com/adserasinghe)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=flat&logo=linkedin&logoColor=white)@adserasinghe](https://www.linkedin.com/in/adserasinghe/)
+- [![Web](https://img.shields.io/badge/Website-Visit%20Now-00aaff?style=flat&logo=google-chrome&logoColor=white) adserasinghe-Web](https://adserasinghe.github.io)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Me-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+94718896042)
+
 
 ⭐️ From [Aditha Dinuja Serasinghe](https://github.com/adserasinghe)
