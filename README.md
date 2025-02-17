@@ -30,8 +30,4 @@ Tourism Web Page
 - Email: svadithadinujaserasinghe@gmail.com | svadithadinuja@outlook.com
 - Twitter: [@adserasinghe](https://x.com/adserasinghe)  
 
-## 💡 Fun fact
-Share an interesting fact about yourself!  
-
----
 ⭐️ From [Aditha Dinuja Serasinghe](https://github.com/adserasinghe)
