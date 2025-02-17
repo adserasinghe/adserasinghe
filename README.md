@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![](https://img.shields.io/badge/CMS-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![](https://img.shields.io/badge/Cloud-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
