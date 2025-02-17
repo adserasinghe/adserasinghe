@@ -26,8 +26,12 @@ Tourism Web Page
   
 
 ## 📫 How to reach me
-- LinkedIn: [Aditha's LinkedIn](https://www.linkedin.com/in/adserasinghe/)  
+- ![](https://img.shields.io/badge/Social-Facebook-1877F2?style=flat&logo=facebook&logoColor=white) Facebook: [@adserasinghe](https://facebook.com/adserasinghe)
+- ![](https://img.shields.io/badge/Social-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white) Twitter: [@adserasinghe](https://x.com/adserasinghe)
+- ![](https://img.shields.io/badge/Social-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) LinkedIn: [@adserasinghe](https://www.linkedin.com/in/adserasinghe/)
+
+  
 - Email: svadithadinujaserasinghe@gmail.com | svadithadinuja@outlook.com
-- Twitter: [@adserasinghe](https://x.com/adserasinghe)  
+-   
 
 ⭐️ From [Aditha Dinuja Serasinghe](https://github.com/adserasinghe)
