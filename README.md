@@ -23,12 +23,10 @@
 ## 🌟 Featured Projects
 ### [Thaproban](Link to project)  
 Tourism Web Page  
-
-### [Project Name 2](Link to project)  
-Brief description of your project  
+  
 
 ## 📫 How to reach me
-- LinkedIn: [Aditha's LinkedIn]([Your LinkedIn URL](https://www.linkedin.com/in/adserasinghe/))  
+- LinkedIn: [Aditha's LinkedIn](https://www.linkedin.com/in/adserasinghe/)  
 - Email: svadithadinujaserasinghe@gmail.com | svadithadinuja@outlook.com
 - Twitter: [@adserasinghe](https://x.com/adserasinghe)  
 
