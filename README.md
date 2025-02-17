@@ -21,7 +21,7 @@
 ![Aditha's GitHub stats](https://github-readme-stats.vercel.app/api?username=adserasinghe&show_icons=true&theme=radical)  
 
 ## 🌟 Featured Projects
-### [Thaproban](Link to project)  
+### [Thaproban](https://adserasinghe.github.io/thaproban.github.io)  
 Tourism Web Page  
   
 
