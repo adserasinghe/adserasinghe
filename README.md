@@ -2,7 +2,7 @@
 
 ## About Me
 💻 Web Developer passionate about creating innovative solutions  
-🌱 Currently learning WordPress & web hosting  
+🌱 Currently learning WordPress & Web hosting  
 🔭 Working on [[Nimitz](https://nimitz.lk/)]    
 
 ## 🛠️ Technologies & Tools
