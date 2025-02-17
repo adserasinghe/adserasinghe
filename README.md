@@ -34,4 +34,4 @@ Tourism Web Page
 
 
 ⭐️ From [Aditha Dinuja Serasinghe](https://github.com/adserasinghe)
-![GitHub User's stars](https://img.shields.io/github/stars/adserasinghe)
+### ![GitHub User's stars](https://img.shields.io/github/stars/adserasinghe)
