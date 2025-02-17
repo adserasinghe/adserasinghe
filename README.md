@@ -4,7 +4,6 @@
 💻 Web Developer passionate about creating innovative solutions  
 🌱 Currently learning WordPress & Web hosting  
 🔭 Working on [[Nimitz](https://nimitz.lk/)] 
-![GitHub User's stars](https://img.shields.io/github/stars/adserasinghe)
 
 ## 🛠️ Technologies & Tools
 ![HTML](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
@@ -35,3 +34,4 @@ Tourism Web Page
 
 
 ⭐️ From [Aditha Dinuja Serasinghe](https://github.com/adserasinghe)
+![GitHub User's stars](https://img.shields.io/github/stars/adserasinghe)
