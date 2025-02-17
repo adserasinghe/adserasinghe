@@ -26,7 +26,7 @@ Tourism Web Page
 
 ## 📫 How to reach me
 - ![](https://img.shields.io/badge/Social-Facebook-1877F2?style=flat&logo=facebook&logoColor=white) Facebook: [@adserasinghe](https://facebook.com/adserasinghe)
-- ![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=flat&logo=Twitter&logoColor=white) X: [@adserasinghe](https://x.com/adserasinghe)
+- ![Twitter](https://img.shields.io/badge/Social-Twitter-Follow%20Me-1DA1F2?style=flat&logo=Twitter&logoColor=white) X: [@adserasinghe](https://x.com/adserasinghe)
 - ![](https://img.shields.io/badge/Social-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) LinkedIn: [@adserasinghe](https://www.linkedin.com/in/adserasinghe/)
 - ![](https://img.shields.io/badge/Website-Visit%20Now-00aaff?style=flat&logo=google-chrome&logoColor=white) Web Site: [adserasinghe-Web](https://adserasinghe.github.io)
 
