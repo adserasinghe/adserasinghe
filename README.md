@@ -29,10 +29,7 @@ Tourism Web Page
 - ![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=flat&logo=Twitter&logoColor=white) [@adserasinghe](https://x.com/adserasinghe)
 - ![](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=flat&logo=linkedin&logoColor=white) [@adserasinghe](https://www.linkedin.com/in/adserasinghe/)
 - ![](https://img.shields.io/badge/Website-Visit%20Now-00aaff?style=flat&logo=google-chrome&logoColor=white) [adserasinghe-Web](https://adserasinghe.github.io)
-
-
-  
-- Email: svadithadinujaserasinghe@gmail.com | svadithadinuja@outlook.com
--   
+- ![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Me-25D366?style=flat&logo=whatsapp&logoColor=white)(https://wa.me/+94718896042)
+- Email: svadithadinujaserasinghe@gmail.com | svadithadinuja@outlook.com  
 
 ⭐️ From [Aditha Dinuja Serasinghe](https://github.com/adserasinghe)
