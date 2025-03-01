@@ -29,7 +29,7 @@ Tourism Web Page
 - [![Facebook](https://img.shields.io/badge/Facebook-Follow%20Me-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/adserasinghe)
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Me-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+94718896042)
 - [![x](https://img.shields.io/badge/x-Follow%20Me-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/adserasinghe)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adserasinghe/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%with%20Me-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adserasinghe/)
 - [![Web](https://img.shields.io/badge/Website-Visit%20Now-00aaff?style=flat&logo=google-chrome&logoColor=white)](https://adserasinghe.github.io)
 
 ⭐️ From [Aditha Dinuja Serasinghe](https://github.com/adserasinghe)
