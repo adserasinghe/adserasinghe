@@ -16,7 +16,7 @@
 
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=adserasinghe&show_icons=true&theme=radical)  
+![Aditha's Stats](https://github-readme-stats.vercel.app/api?username=adserasinghe&show_icons=true&theme=radical)  
 
 ## 🌟 Featured Projects
 ### [Thaproban](https://adserasinghe.github.io/thaproban.github.io)  
