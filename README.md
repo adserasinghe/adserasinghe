@@ -26,9 +26,6 @@ Tourism Web Page
 <a href="https://www.codedex.io/@adserasinghe/30-nites-of-code">
   <img src="https://www.codedex.io/api/petStatus?user=adserasinghe">
 </a>
-  [Check out my progress!](https://www.codedex.io/@adserasinghe/30-nites-of-code)  
-  
-  ![@adserasinghe #30NitesOfCode](https://www.codedex.io/api/petStatus?user=adserasinghe)
   
 
 ## 📫 How to reach me
