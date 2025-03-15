@@ -40,5 +40,5 @@ Tourism Web Page
 ⭐️ From [Aditha Dinuja Serasinghe](https://github.com/adserasinghe)
 ### ![GitHub User's stars](https://img.shields.io/github/stars/adserasinghe)
 
-![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg1eG5jNGw3Zzl4Y3EzaDVyMWlocXBrdGM4amFidmtlaWx3dWkxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GNBCVMv6XobnMUMYJG/giphy.gif))
+[![Buy Me a Coffee](https://i.postimg.cc/c4hPVbwN/bmc-button.png)](https://buymeacoffee.com/adserasinghe)
 
