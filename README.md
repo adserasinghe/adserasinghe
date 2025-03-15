@@ -40,4 +40,4 @@ Tourism Web Page
 ⭐️ From [Aditha Dinuja Serasinghe](https://github.com/adserasinghe)
 ### ![GitHub User's stars](https://img.shields.io/github/stars/adserasinghe)
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="adserasinghe" data-color="#FFDD00" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanMzNDZzZno1cTNrMDkybXlsa3B3M2lwZG5rMW4xbWJoYTd2YmVxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TDQOtnWgsBx99cNoyH/giphy.gif)
