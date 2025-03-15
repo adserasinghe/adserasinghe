@@ -41,7 +41,7 @@ Tourism Web Page
 ### ![GitHub User's stars](https://img.shields.io/github/stars/adserasinghe)
 
 <a href="https://buymeacoffee.com/adserasinghe">
-  <img src="https://i.postimg.cc/13T7Shzb/black-button.png" width="150">
+  <img src="https://i.postimg.cc/W4kWbWFz/white-button.png" width="150">
 </a>
 
 
