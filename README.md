@@ -13,7 +13,7 @@
 ![WP](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![GSC](https://img.shields.io/badge/Google_Search_Console-4285F4?style=flat&logo=google&logoColor=white)
+![GSC](https://img.shields.io/badge/GSC-4285F4?style=flat&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
