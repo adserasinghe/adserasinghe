@@ -13,7 +13,7 @@
 ![WP](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
 ## 📊 GitHub Stats
