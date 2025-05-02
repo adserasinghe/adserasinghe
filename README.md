@@ -48,9 +48,7 @@ Tourism Web Page
 ### ![GitHub User's stars](https://img.shields.io/github/stars/adserasinghe)
 
 ## ❤️ Support Me
-<a href="https://buymeacoffee.com/adserasinghe">
-  <img src="https://i.postimg.cc/W4kWbWFz/white-button.png" width="150">
-</a>
+<a href="https://buymeacoffee.com/adserasinghe"><img src="https://i.postimg.cc/W4kWbWFz/white-button.png" width="150"></a>
 <a href="https://payhere.lk/pay/o418fc843" target="_blank"><img src="https://i.postimg.cc/m2jYqV1j/payhere-brand-768x256.png" alt="Pay Here" style="height: 50px !important;width: 150px !important; margin-bottom: -18px; margin-left: -20px;" ></a>
 
 
