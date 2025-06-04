@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Aditha Dinuja Serasinghe
 
-## About Me 🧑
+## 🧑 About Me
 💻 Web Developer passionate about creating innovative solutions  
 🌱 Currently learning WordPress & Web hosting  
 🔭 Working on [Thaproban Web project](https://adserasinghe.github.io/thaproban.github.io) 
