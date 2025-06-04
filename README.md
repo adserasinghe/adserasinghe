@@ -19,6 +19,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![GSC](https://img.shields.io/badge/GSC-4285F4?style=flat&logo=google&logoColor=white)
 ![Semrush](https://img.shields.io/badge/Semrush-FF6C37?style=flat&logo=semrush&logoColor=white)
+[![Ahrefs](https://ahrefs.com/favicon.ico)](https://ahrefs.com)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
