@@ -31,6 +31,8 @@
 ### [Thaproban](https://thaproban.vercel.app/)  
 Tourism Web Page  
 
+### [News Page](/)  
+News Blog Page
 <!--## #30NitesOfCode:
 <a href="https://www.codedex.io/@adserasinghe/30-nites-of-code">
   <img src="https://www.codedex.io/api/petStatus?user=adserasinghe">
