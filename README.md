@@ -54,5 +54,5 @@ News Blog Page
 ## ❤️ Support Me
 <a href="https://buymeacoffee.com/adserasinghe"><img src="https://i.postimg.cc/W4kWbWFz/white-button.png" width="150"></a>
 ## Review Me on
-[trustindex data-widget-id=a34f0144974e777b6e861d114fc]
+![trustindex data-widget-id=a34f0144974e777b6e861d114fc]
 
