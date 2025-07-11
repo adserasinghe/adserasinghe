@@ -54,5 +54,5 @@ News Blog Page
 ## ❤️ Support Me
 <a href="https://buymeacoffee.com/adserasinghe"><img src="https://i.postimg.cc/W4kWbWFz/white-button.png" width="150"></a>
 ## Review Me on
-[![Trustindex Reviews](https://img.shields.io/badge/Read%20Our-Reviews-blue)](https://cdn.trustindex.io/loader.js?a34f0144974e777b6e861d114fc)
+[![Trustindex Reviews](https://img.shields.io/badge/Read%20Our-Reviews-blue)](https://www.trustindex.io/reviews/adserasinghe.github.io)
 
