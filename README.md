@@ -56,5 +56,14 @@ News Blog Page
 ## Review Me on
 [![Trustindex Reviews](https://img.shields.io/badge/Read%20Our-Reviews-blue)](https://www.trustindex.io/reviews/adserasinghe.github.io)
 
-- name: generate-breakout-game-from-github-contribution-graph
-  uses: cyprieng/github-breakout@v1.0.0
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
