@@ -3,7 +3,7 @@
 ## 🧑 About Me
 💻 Web Developer passionate about creating innovative solutions  
 🌱 Currently learning WordPress & Web hosting  
-🔭 Working on [Sinhala Finetune]([https://github.com/adserasinghe/sinhala-finetune]) 
+🔭 Working on [Sinhala Finetune](https://github.com/adserasinghe/sinhala-finetune) 
 
 ## 🛠️ Technologies & Tools
 ![HTML](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
@@ -29,7 +29,7 @@
 
 ## 🌟 Featured Projects
 ### [adserasinghe page](https://adserasinghe.github.io/)  
-### [Sinhala Finetune]([https://github.com/adserasinghe/sinhala-finetune])
+### [Sinhala Finetune](https://github.com/adserasinghe/sinhala-finetune)
 
 ## 📫 How to reach me
 - [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:svadithadinujaserasinghe@gmail.com)
