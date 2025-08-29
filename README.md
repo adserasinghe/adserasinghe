@@ -3,7 +3,7 @@
 ## 🧑 About Me
 💻 Web Developer passionate about creating innovative solutions  
 🌱 Currently learning WordPress & Web hosting  
-🔭 Working on [Sinhala Finetune]([https://adserasinghe.github.io/thaproban.github.io](https://github.com/adserasinghe/sinhala-finetune)) 
+🔭 Working on [Sinhala Finetune]([https://github.com/adserasinghe/sinhala-finetune]) 
 
 ## 🛠️ Technologies & Tools
 ![HTML](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
@@ -28,16 +28,8 @@
 ![Aditha's Stats](https://github-readme-stats.vercel.app/api?username=adserasinghe&show_icons=true&theme=radical)  
 
 ## 🌟 Featured Projects
-### [Thaproban](https://thaproban.vercel.app/)  
-Tourism Web Page  
-
-### [News Page](/)  
-News Blog Page
-<!--## #30NitesOfCode:
-<a href="https://www.codedex.io/@adserasinghe/30-nites-of-code">
-  <img src="https://www.codedex.io/api/petStatus?user=adserasinghe">
-</a>-->
-  
+### [adserasinghe page](https://adserasinghe.github.io/)  
+### [Sinhala Finetune]([https://github.com/adserasinghe/sinhala-finetune])
 
 ## 📫 How to reach me
 - [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:svadithadinujaserasinghe@gmail.com)
