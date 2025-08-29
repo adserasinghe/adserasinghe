@@ -3,7 +3,7 @@
 ## 🧑 About Me
 💻 Web Developer passionate about creating innovative solutions  
 🌱 Currently learning WordPress & Web hosting  
-🔭 Working on [Thaproban Web project](https://adserasinghe.github.io/thaproban.github.io) 
+🔭 Working on [Sinhala Finetune]([https://adserasinghe.github.io/thaproban.github.io](https://github.com/adserasinghe/sinhala-finetune)) 
 
 ## 🛠️ Technologies & Tools
 ![HTML](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
