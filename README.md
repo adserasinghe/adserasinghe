@@ -49,7 +49,7 @@
 ## ❤️ Support Me
 <a href="https://buymeacoffee.com/adserasinghe"><img src="https://i.postimg.cc/W4kWbWFz/white-button.png" width="150"></a>
 ## Review Me on
-[![Trustindex Reviews](https://img.shields.io/badge/Read%20Our-Reviews-blue)](https://www.trustindex.io/reviews/adserasinghe.github.io)
+[![TrustPilot Reviews](https://img.shields.io/badge/Read%20Our-Reviews-blue)](https://www.trustpilot.com/review/aditha.lk)
 
 <picture>
   <source
