@@ -48,6 +48,7 @@
 
 ## ❤️ Support Me
 <a href="https://buymeacoffee.com/adserasinghe"><img src="https://i.postimg.cc/W4kWbWFz/white-button.png" width="150"></a>
+<a href='https://ko-fi.com/F2F2UUSUQ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 ## Review Me on
 [![TrustPilot Reviews](https://img.shields.io/badge/Read%20Our-Reviews-blue)](https://www.trustpilot.com/review/aditha.lk)
 
@@ -63,4 +64,3 @@
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
 
-<a href='https://ko-fi.com/F2F2UUSUQ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
