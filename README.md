@@ -26,10 +26,7 @@
 ![Semrush](https://img.shields.io/badge/Semrush-FF6C37?style=flat&logo=semrush&logoColor=white)
 ![Ahrefs](https://img.shields.io/badge/Ahrefs-0C65F5?style=flat&logo=ahrefs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-
-## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adserasinghe&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+ 
 
 ## 🌟 Featured Projects
 ### [adserasinghe page](https://adserasinghe.github.io/)  
